@@ -1,0 +1,5 @@
+The files in this zipped folder contains a link to the Onedrive folder which holds the FLUENT case files for the medium mesh simulation on the Wind-tunnel High-speed test section. The Module leader has been granted access to this folder, however if any issues the repository owner should be contacted immediately.  
+
+The folder also contains the MATLAB script used for post-processing of reuslts to obtain velocity and pressure gradients, dimensional and non-dimensional. The script also contains calculations for the scaling of the simulation from RANS to LES as instructed.
+
+Another MATLAB script is included for the incomprssible and isothermal justification calculations based on ideal gas laws and isentropic relations
